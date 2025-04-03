@@ -1,0 +1,8 @@
+Name	Color	Age
+Maeve	Red	25
+Manasa	Green	30
+Gavin	Black	22
+Bri	Blue	28
+Anu	Blue	24
+Rashmita	Green	29
+Carol	Red	26
