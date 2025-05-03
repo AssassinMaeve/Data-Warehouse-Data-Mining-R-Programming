@@ -1,0 +1,39 @@
+Unit - I
+--------
+Explain the concepts of Data Warehouse and OLAP.
+List and explain differences between Data Warehouse and OLAP.
+Define Data Warehouse and explain its key characteristics. 
+What is OLAP (Online Analytical Processing)? Explain its key operations with examples.
+Discuss the architecture of a Data Warehouse.
+Explain the ETL (Extract, Transform, Load) process in a Data Warehouse with an appropriate diagram.
+What are the different types of Data Warehouse schemas? Explain.
+Explain Star Schema, Snowflake Schema and Galaxy Schema with examples.
+Describe the different types of Data Warehouses (Enterprise Data Warehouse, Data Mart, and Operational Data Store) with examples.
+Describe the role of Metadata in a Data Warehouse and explain its types.
+What are Data Marts? Explain the types of Data Marts and their benefits in a Data Warehouse environment. 
+Define OLAP (Online Analytical Processing) and explain its key features with examples.
+Discuss the different types of OLAP (MOLAP, ROLAP, HOLAP) and compare their advantages and disadvantages.
+Explain the OLAP operations (Roll-up, Drill-down, Slice, Dice, Pivot) with suitable examples. 
+Explain the role of OLAP in Data Warehousing and how it enhances business intelligence.
+Discuss the concept of Multidimensional Data Model in OLAP with an example.
+Explain the differences between MOLAP, ROLAP, and HOLAP with real-world examples. 
+Discuss the role of fact tables and dimension tables in OLAP data modeling.
+Explain the concept of drill-through, drill-across, and drill-down operations in OLAP with examples.
+Discuss the importance of dimensional modeling in OLAP and describe the star and snowflake schemas.
+
+Explain the concept of hybrid OLAP (HOLAP) and how it combines the benefits of MOLAP and ROLAP.
+Explain the key elements of a Data Warehouse and their roles in data storage and analysis.
+Discuss the four main characteristics of a Data Warehouse (Subject-Oriented, Integrated, Time-Variant, Non-Volatile) with examples.
+Discuss the difference between Operational Data Store (ODS) and Data Warehouse with examples.
+Explain the role of Data Marts in a Data Warehouse environment and their benefits.
+Describe the importance of data staging, data integration, and data transformation in a Data Warehouse.
+What is a Data Warehouse schema? Explain the Star, Snowflake, and Galaxy schemas with diagrams. 
+Compare OLAP and OLTP in terms of data structure, processing, and usage.
+Discuss the different types of Source Systems used in Data Warehousing with examples.
+Explain the challenges in extracting data from heterogeneous Source Systems for a Data Warehouse.
+Explain the process of data extraction from Source Systems and its challenges in ETL.
+What are the key factors to consider when selecting a Source System for a Data Warehouse?
+What is a Data Lake, and how does it compare to a Data Warehouse?
+Explain the data integration process in a Data Warehouse and its significance.
+Explain Enterprise Data Warehouse (EDW).
+Describe the architecture of a Data Warehouse and its major components. 

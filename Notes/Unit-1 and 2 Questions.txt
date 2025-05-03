@@ -1,0 +1,37 @@
+Unit - 1 and 2
+---------------
+How do you download and install R on your computer? Briefly explain the steps.
+Explain how help command in R is used in different Operating System.
+Explain with example different data operators in R.
+Describe the multiple ways to read and write data into R.
+Explain the following commands of R: i) Combine Command, ii) History command
+Explain any 4 types of Data Structure available in R. Give example.
+Write a short note about: i) as. character (), ii) as. factor (), iii) as. numeric (), iv) as. integer ()
+How can you import and export data in R? Explain with examples for CSV, Excel, and databases.
+Define Packages. How do you Load and Install packages in R? Explain briefly.
+Explain different Control statements used in R with an example.
+What are the different methods to run the R program? Explain.
+How do you use R for simple math? Explain with an example.
+Describe the Looping statements used in R with example. 
+Define R studio and explain its characteristics.
+Explain the following: i) Arithmetic operators, ii) Assignment operators, iii) Comparison operators, iv) Logical operators
+How can you perform basic statistical operations (mean, median, standard deviation, correlation) in R? Explain with examples.
+How do you create vector objects? What are the different operations that can be used with vector object? Give an example.
+Define Data type and Data structures in R. Write the steps to convert number data to text data and vice versa.
+Explain the use of conditional statements (if-else) and looping constructs (for, while) in R with examples.
+List and explain the commands which are used to manipulate the vectors.
+How is Data frame converted into list? Explain with an example.
+Explain the concept of manipulating data structures with R code.
+What is a data frame? Explain with example the commands which are used to create the data frame.
+Define array data type and explain transpose of array with an example.
+Explain the concept of Sorting in relating to Vector and Dataframe.
+What is the use of dimnames()? Explain it with example.
+With the help of an example explain how matrix is converted to data frame.
+List and explain the commands which are used to manipulate the matrix.
+What is the use of $ command? How $ command is used in lists explain in detail.
+How matrix is converted to dataframe? Explain with an example.
+Define Matrix and explain transpose of matrix with an example.
+Explain selection and Display concepts relating to Matrix objects.
+List and explain the commands which are used to manipulate the List.
+How data frame is Converted into Matrix, Explain with an example.
+Write a short note on: i) Factors, ii) Data Frames, iii) Vectors, iv) List
