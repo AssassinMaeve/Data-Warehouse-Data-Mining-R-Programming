@@ -1,0 +1,5 @@
+@relation weatherTest
+@attribute outlook{Rainy,Sunny,Overcast}
+@attribute play {Yes,No}
+@data
+Sunny,?
