@@ -38,6 +38,3 @@ Contributions are welcome! Feel free to submit pull requests for improvements or
 
 ## 📞 Support
 If you have any questions or suggestions, feel free to raise an issue or reach out.
-
----
-📢 **Note:** This repository is regularly updated with new lab records and exercises, so make sure to check back frequently!
